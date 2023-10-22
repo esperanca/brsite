@@ -1,8 +1,9 @@
 site_name: danielsouza
 
 theme:
-    name: 'material' 
-      font: OpenSans
+    name: 'material'
+    palette:
+
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -20,7 +21,7 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: modo claro
-        
+
 # Extensions
 markdown_extensions:
   - footnotes
@@ -45,7 +46,7 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
 
   - toc:
-      permalink: false
+      permalink: true
 
 plugins:
   - search
