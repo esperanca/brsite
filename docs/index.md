@@ -1,11 +1,15 @@
-# Obsidian Notes
+# Daniel Souza - Designer, Pesquisador, Curador. 
 
-Publish your public notes with MkDocs
+Esse é meu Digital Garden em português. Sou designer, pesquisador e ativista.  Escrevo sobre  inclusão, design de serviços, design de experiência e outros tópicos.
 
-## Hello World!
+## Como usar este site?
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+Não existe uma navegação fixa. Esse jardim digital é uma coleção de notas públicas de assuntos que me interessam. Em cada link, você vai encontrar uma informação sobre a nota:
 
-The folders in `/docs` appear as the main sections on the navigation bar.
+- 🌱 Semente Ideias iniciais sobre um tópico, rascunhos, notas
+-  🌿 Broto Um pouco de clareza e melhorias, links adicionais 
+-  🌳 Planta Razoavelmente completo, mas ainda crescendo
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+Não tenho compromisso algum com frequencia de publicação ou tópicos. Este site é um espaço onde escrevo para mim mesmo em português - meu principal objetivo é não perder minha capacidade de escrever usando minha lingua nativa. Comentários e sugestões são sempre bem vindos. 
+
+Escrevo em inglês no meu [website pessoal](https://danielsouza.com/danielsouza.org)
