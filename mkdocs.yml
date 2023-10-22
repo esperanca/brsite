@@ -1,6 +1,7 @@
 site_name: danielsouza
 
 theme:
+    language: pt-BR
     name: 'material'
     palette: 
         font:
