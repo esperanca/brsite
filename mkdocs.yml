@@ -1,10 +1,8 @@
 site_name: danielsouza
 
 theme:
-    language: pt-BR
     name: 'material' 
-      font:
-        text: Atkinson Hyperlegible
+      font: 
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
@@ -23,7 +21,7 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: modo claro
-
+        
 # Extensions
 markdown_extensions:
   - footnotes
