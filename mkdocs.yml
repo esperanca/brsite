@@ -1,4 +1,4 @@
-site_name: obsidian-mkdocs template
+site_name: Daniel Souza - site pessoal e jardim digital
 
 theme:
     name: 'material'
@@ -7,11 +7,11 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: pink
-      accent: indigo
+      primary: black
+      accent: yellow
       toggle:
         icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
+        name: modo escuro
 
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
@@ -20,7 +20,7 @@ theme:
       accent: blue
       toggle:
         icon: material/toggle-switch
-        name: Switch to light mode
+        name: modo claro
 
 # Extensions
 markdown_extensions:
