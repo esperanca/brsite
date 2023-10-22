@@ -2,7 +2,9 @@ site_name: danielsouza
 
 theme:
     name: 'material'
-    palette:
+    palette: 
+        font:
+            text: Atkinson Hyperlegible
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
