@@ -2,7 +2,6 @@ site_name: danielsouza
 
 theme:
     name: 'material'
-    font: OpenSans
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
