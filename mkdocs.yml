@@ -2,6 +2,7 @@ site_name: danielsouza
 
 theme:
     name: 'material'
+    language: pt-BR
     palette:
 
     # Light mode
