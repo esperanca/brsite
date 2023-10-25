@@ -2,6 +2,7 @@ site_name: danielsouza
 
 theme:
     name: 'material'
+    palette:
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
