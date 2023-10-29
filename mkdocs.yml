@@ -4,8 +4,8 @@ theme:
     name: 'material'
     language: pt-BR
     palette:
-    icon:
-        logo: material/yard 
+        icon:
+            logo: material/yard 
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
