@@ -1,8 +1,6 @@
-# Daniel Souza - Designer, Pesquisador, Facilitador. 
-
 Esse é meu jardim digital Digital Garden em português.
 
-Sou designer, pesquisador e ativista.   Escrevo sobre  inclusão, design de serviços, design de experiência e outros tópicos aqui neste site.
+Sou designer, pesquisador e ativista. Escrevo sobre  inclusão, design de serviços, design de experiência e outros tópicos aqui neste site.
 
 ## Como usar este site?
 
